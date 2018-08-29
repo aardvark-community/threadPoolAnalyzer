@@ -1,0 +1,6 @@
+/.vs/ThreadPoolBlockAnalyzer/v15/*.suo
+/.vs/**
+/ConsoleApp1/bin/Debug/netcoreapp2.1
+**/bin/**
+**/obj/**
+packages
